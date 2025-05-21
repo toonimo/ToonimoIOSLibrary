@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ToonimoIOSLibrary",
-            url: "https://github.com/toonimo/ios/releases/download/1.0.11/ToonimoIOSLibrary.xcframework.zip",
-            checksum: "484466d73b820134d27f258d0e75f48097b0f94ff3365402e7dfb22646595fc8"
+            url: "https://github.com/toonimo/ios/releases/download/1.0.12/ToonimoIOSLibrary.xcframework.zip",
+            checksum: "062d04ae92a0fd3501c1ac0c34a007f8f8473d0e0867b041ee7aea7e7c477d0a"
         ),
     ]
 )
